@@ -5,6 +5,10 @@ d:
   - gdc
   - ldc
 
+arch:
+  - amd64
+  - ppc64le
+
 branches:
   only:
     - master
